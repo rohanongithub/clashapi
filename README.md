@@ -2,7 +2,7 @@
 
 A web application that allows users to look up Clash of Clans player profiles using the official Clash of Clans API.
 
-![Project Preview](preview.png)
+![Project Preview]
 
 ## Features
 
@@ -46,7 +46,7 @@ Due to these restrictions, the application can only work from whitelisted IP add
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/clash-of-clans-lookup.git
+   git clone https://github.com/rohanongithub/clash-of-clans-lookup.git
    cd clash-of-clans-lookup
    ```
 
