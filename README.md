@@ -3,6 +3,15 @@
 A web application that allows users to look up Clash of Clans player profiles using the official Clash of Clans API.
 
 ![Project Preview]
+![Clash of Clans Player Lookup](https://github.com/user-attachments/assets/60b99c1b-95bb-4f1f-8db6-1f0a7ec0e350)
+
+![Clash of Clans Player Lookup · 5 28pm · 04-19](https://github.com/user-attachments/assets/88d0a3c5-8329-4026-81e7-47bef2fbc280)
+
+![Clash of Clans Player Lookup · 5 28pm · 04-19 (1)](https://github.com/user-attachments/assets/2f32ac31-22fa-489b-8b32-13fdcb306ff2)
+
+Actual Profile in-game for cross lookup:
+![IMG_6083](https://github.com/user-attachments/assets/92f14521-2ecf-47d8-bcf7-d83ac079a82b)
+
 
 ## Features
 
